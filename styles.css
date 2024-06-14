@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #d8ffcd;
+    background-color: #d8ecae;
 }
 
 h1 {
@@ -24,4 +24,9 @@ input, button {
 p {
     color: green;
     font-weight: bold;
+}
+
+#label1{
+
+    width: 20em;
 }
